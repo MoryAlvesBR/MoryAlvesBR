@@ -1,6 +1,6 @@
 # Olá, eu sou o Davidson Alves! 👋
 
-### Quality Engineer | Automação de Testes e Testes Manuais
+### Quality Engineer | Automação de Testes | Testes Manuais
 
 Sou Quality Engineer com mais de 5 anos de experiência em garantia de qualidade de software de ponta a ponta (Full Cycle). Meu foco é mitigar riscos, otimizar processos e garantir entregas eficientes através de arquiteturas modernas de automação e liderança técnica.
 
